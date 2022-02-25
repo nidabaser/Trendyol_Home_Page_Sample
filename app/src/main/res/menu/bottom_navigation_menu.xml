@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:icon="@drawable/home"
+        android:checked="true"
+        android:title="Anasayfa" />
+    <item
+        android:icon="@drawable/search"
+        android:title="Kategoriler" />
+    <item
+        android:icon="@drawable/heart"
+        android:title="Favorilerim" />
+    <item
+        android:icon="@drawable/sepet"
+        android:title="Sepetim" />
+    <item
+        android:icon="@drawable/user"
+        android:title="Hesabım" />
+</menu>
